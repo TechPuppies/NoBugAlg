@@ -1,4 +1,4 @@
-What is NoBugAlgo?
+What is NoBugAlg?
 ==========
 
 Comming in summer!
