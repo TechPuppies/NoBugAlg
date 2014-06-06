@@ -47,7 +47,7 @@ public class Solution {
         for (int i = 0; i < A.length; i++) {
             if (hashMap.containsKey(A[i])) {
                 for (int j : hashMap.get(A[i])) {
-                    if (i != j) a.add(new int[]{A[i], A[j]}`);
+                    if (i != j) a.add(new int[]{A[i], A[j]});
                 }
             }
         }
